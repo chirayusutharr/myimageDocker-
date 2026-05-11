@@ -1,4 +1,4 @@
-for node_modul
+for node_moduls\
 $ npm init
 
 docker image build 
